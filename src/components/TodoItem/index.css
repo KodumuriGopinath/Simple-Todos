@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-bottom: 30px;
+}
+
+.item-name {
+  font-size: 20px;
+  font-family: roboto;
+  padding-right: 70px;
+}
+.button {
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  font-family: roboto;
+  font-size: 17px;
+  background-color: white;
+  border-radius: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  cursor: pointer;
+}
